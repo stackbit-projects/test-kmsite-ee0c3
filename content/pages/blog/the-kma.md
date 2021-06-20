@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The KMA
 subtitle: lorem-ipsum
 date: '2021-06-20'
 thumb_image_alt: lorem-ipsum
